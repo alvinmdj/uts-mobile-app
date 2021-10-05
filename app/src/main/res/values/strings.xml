@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AlvinMartinDjong (35733) - UTS</string>
+    <string name="app_title">SFX Library and Previewer</string>
+    <string name="app_icon">Application Icon</string>
+    <string name="btn_profile">Profile</string>
+    <string name="btn_library">Library</string>
+    <string name="login_title">Login Page</string>
+    <string name="login_et_hint">Masukkan nama anda</string>
+    <string name="profile_name">Alvin Martin Djong</string>
+    <string name="profile_nim">00000035733</string>
+    <string name="profile_class">IF570-BL</string>
+    <string name="login_btn">Next</string>
+    <string name="profile_pic_desc">Profile Picture</string>
+    <string name="reference_title">Referensi</string>
+    <string name="sfx_thumbnail_desc">SFX Thumbnail</string>
+    <string name="sfx_title">Judul</string>
+    <string name="sfx_description">Keterangan</string>
+    <string name="btn_play">Play SFX</string>
+    <string name="btn_pause">Pause SFX</string>
+    <string name="btn_delete_text">Delete Button</string>
+    <string name="main_menu_title">Main Menu</string>
+    <string name="view_profile_title">View Profile</string>
+    <string name="ref_icon">https://www.flaticon.com/</string>
+    <string name="ref_sfx">https://mixkit.co/free-sound-effects/</string>
+    <string name="ref_so1">https://stackoverflow.com/questions/22105775/imageview-in-circular-through-xml</string>
+    <string name="ref_so2">https://stackoverflow.com/questions/3438276/how-to-change-the-text-on-the-action-bar</string>
+    <string name="ref_so3">https://stackoverflow.com/questions/14483393/how-do-i-change-the-android-actionbar-title-and-icon</string>
+    <string name="ref_so4">https://stackoverflow.com/questions/50764307/adding-action-bar-and-options-menu-to-activity</string>
+    <string name="ref_so5">https://stackoverflow.com/questions/26076965/android-recyclerview-addition-removal-of-items</string>
+    <string name="ref_so6">https://stackoverflow.com/questions/27873417/stop-media-player-on-press-of-back-button</string>
+    <string name="ref_background_img">https://www.teahub.io/down/ixhxxi_no-mans-sky/</string>
+    <string name="ref_alpha_code">https://magdamiu.medium.com/android-transparent-colors-a2d55a9b4e66</string>
+    <string name="ref_so7">https://stackoverflow.com/questions/4817933/what-is-the-equivalent-to-a-javascript-setinterval-settimeout-in-android-java</string>
+</resources>
